@@ -12,8 +12,8 @@ A comprehensive design for an e-learning platform. This project is for the final
 - [Slides](https://docs.google.com/presentation/d/1eHcaDUOjTpUD54yOZLMInZ1arkYfZFpF/edit?usp=sharing&ouid=118346825807567798476&rtpof=true&sd=true): View the project presentation slides showcasing key insights and the design process.
 
 ## Preview
-Below is a live preview of the AjarIND E-Learning Platform website design:
-![Website Preview](https://ajarind.vercel.app/)
+You can view a live preview of the AjarIND E-Learning Platform website design here:  
+[**AjarIND Website**](https://ajarind.vercel.app/)
 
 ## Technologies Used
 - **Figma**: For designing and prototyping.
