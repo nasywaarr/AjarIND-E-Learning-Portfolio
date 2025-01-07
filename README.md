@@ -3,7 +3,6 @@
 A comprehensive design for an e-learning platform. This project is for the final project of Sisters in Tech (SISTECH) 2024 by RISTEK Fakultas Ilmu Komputer Universitas Indonesia.
 
 ## Table of Contents
-- [Project Overview](#ajarind-e-learning-platform)
 - [Project Files](#project-files)
 - [Preview](#preview)
 - [Technologies Used](#technologies-used)
